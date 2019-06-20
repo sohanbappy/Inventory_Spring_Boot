@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringInventory
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Bappy
+Implementation-Vendor-Id: com.inventory
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringInventory
+Created-By: Maven Integration for Eclipse
+
